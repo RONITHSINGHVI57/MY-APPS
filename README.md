@@ -31,4 +31,4 @@ From entertainment to productivity, this repository showcases my projects built 
 
 | Name | Description | Link |
 |------|--------------|------|
-| 💬 **RONI_AI** | A multi-functional AI assistant powered by Gemini API. Includes chat history, tabs, profile settings, and lightning-fast responses. | [Chat Now](https://ronai.lovable.app/) |
+| 💬 **RONI_AI** | A multi-functional AI assistant . Includes chat history, tabs, profile settings, and lightning-fast responses. | [Chat Now](https://ronai.lovable.app/) |
