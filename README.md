@@ -28,4 +28,4 @@ From entertainment to productivity, this repository showcases my projects built 
 
 | Name | Description | Link |
 |------|--------------|------|
-| 💬 **RONI_AI** | A multi-functional AI assistant . Includes chat history, tabs, profile settings, and lightning-fast responses. | [Chat Now](https://roniai.netlify.app/) |
+| 💬 **RONI_AI** | A multi-functional AI assistant . Includes chat history, tabs, profile settings, and lightning-fast responses. | [Chat Now](https://roniz-ai.lovable.app/) |
