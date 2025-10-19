@@ -12,7 +12,7 @@ From entertainment to productivity, this repository showcases my projects built 
 | 🧩 **2048 Game** | A modern version of the 2048 puzzle game with animations, win conditions, and a smooth grid experience. | [Play Now](https://2048-game-ronisinghvis.on.drv.tw/www.2048game.com/2048_game.html) |
 | 🐤 **Flappy Bird** | A smooth remake of the viral Flappy Bird with clean physics, sound, and fast performance. | [Fly Now](https://zingy-marigold-f38204.netlify.app/) |
 | 🍪 **Minecraft Cookie Clicker** | A fun cookie-clicking idle game with a Minecraft theme and incremental gameplay. | [Click Here](https://minecraftcookieclicker.on.drv.tw/www.minecraft_cookie_clicker.com/Minecraft_Cookie_clicker.html) |
-| **Reflex It** | Test Your Reflexes. | [Click Here](https://reflexit.lovable.app/) |
+| **Reflex It** | Test Your Reflexes. | [Start](https://reflexit.lovable.app/) |
 
 ---
 
@@ -22,11 +22,13 @@ From entertainment to productivity, this repository showcases my projects built 
 |------|--------------|------|
 | 🔳 **QR Code Scanner** | Instantly create or scan QR codes for any link or text. Lightweight and mobile-ready. | [Scan It](https://capable-flan-bc8ec6.netlify.app/) |
 | 🧮 **Calculator** | A simple, modern, and responsive calculator built with precision and minimal UI. | [Calculate](https://classy-lollipop-08dec4.netlify.app/) |
+| **Kinetic Invoice** | Generate Invoices. | [Generate](https://kinetic-invoice.lovable.app/) |
+| **Text to Voice** | A text to voice generator. | [Generate](https://voicey.lovable.app/) |
 
 ---
 
-## 🤖 AI / Chatbot
+## 🤖 Search Engine
 
 | Name | Description | Link |
 |------|--------------|------|
-| 💬 **RONI_AI** | A multi-functional AI assistant . Includes chat history, tabs, profile settings, and lightning-fast responses. | [Chat Now](https://ronzai.lovable.app/) |
+| 💬 **RONI ENGINE** | A multi-functional search engine . Includes lightning-fast responses. | [Chat Now](https://roniengine.netlify.app/) |
