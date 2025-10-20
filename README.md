@@ -9,9 +9,9 @@ From entertainment to productivity, this repository showcases my projects built 
 
 | Name | Description | Link |
 |------|--------------|------|
-| 🧩 **2048 Game** | A modern version of the 2048 puzzle game with animations, win conditions, and a smooth grid experience. | [Play Now](https://2048-game-ronisinghvis.on.drv.tw/www.2048game.com/2048_game.html) |
+| 🧩 **2048 Game** | A modern version of the 2048 puzzle game with animations, win conditions, and a smooth grid experience. | [Play Now](https://2048gameronith.netlify.app/) |
 | 🐤 **Flappy Bird** | A smooth remake of the viral Flappy Bird with clean physics, sound, and fast performance. | [Fly Now](https://zingy-marigold-f38204.netlify.app/) |
-| 🍪 **Minecraft Cookie Clicker** | A fun cookie-clicking idle game with a Minecraft theme and incremental gameplay. | [Click Here](https://minecraftcookieclicker.on.drv.tw/www.minecraft_cookie_clicker.com/Minecraft_Cookie_clicker.html) |
+| 🍪 **Minecraft Cookie Clicker** | A fun cookie-clicking idle game with a Minecraft theme and incremental gameplay. | [Click Here](https://minecraftcookieclicker.netlify.app/) |
 | **Reflex It** | Test Your Reflexes. | [Start](https://reflexit.lovable.app/) |
 
 ---
