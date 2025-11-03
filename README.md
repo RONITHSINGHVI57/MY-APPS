@@ -40,3 +40,4 @@ From entertainment to productivity, this repository showcases my projects built 
 | Name | Description | Link |
 |------|--------------|------|
 | 💬 **R.O.N.I** | A multi-functional AI . Includes lightning-fast responses. | [Chat Now](https://ronith-ai.vercel.app/) |
+| 💬 **Roni Generator** | An image generator AI . Includes lightning-fast responses. | [Chat Now](https://pixel-alchemy-99.lovable.app/) |
