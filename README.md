@@ -23,7 +23,6 @@ From entertainment to productivity, this repository showcases my projects built 
 | 🔳 **QR Code Scanner** | Instantly create or scan QR codes for any link or text. Lightweight and mobile-ready. | [Scan It](https://capable-flan-bc8ec6.netlify.app/) |
 | 🧮 **Calculator** | A simple, modern, and responsive calculator built with precision and minimal UI. | [Calculate](https://classy-lollipop-08dec4.netlify.app/) |
 | **Kinetic Invoice** | Generate Invoices. | [Generate](https://kinetic-invoice.lovable.app/) |
-| **Text to Voice** | A text to voice generator. | [Generate](https://voicey.lovable.app/) |
 
 ---
 
@@ -39,5 +38,4 @@ From entertainment to productivity, this repository showcases my projects built 
 
 | Name | Description | Link |
 |------|--------------|------|
-| 💬 **R.O.N.I** | A multi-functional AI . Includes lightning-fast responses. | [Chat Now](https://ronith-ai.vercel.app/) |
-| 💬 **Roni Generator** | An image generator AI . Includes lightning-fast responses. | [Chat Now](https://pixel-alchemy-99.lovable.app/) |
+| 💬 **R.O.N.I** | A multi-functional AI . Includes lightning-fast responses. | [Chat Now](https://askroni.lovable.app/) |
