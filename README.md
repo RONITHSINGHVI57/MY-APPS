@@ -30,7 +30,7 @@ From entertainment to productivity, this repository showcases my projects built 
 
 | Name | Description | Link |
 |------|--------------|------|
-| 💬 **RONI ENGINE** | A multi-functional search engine . Includes lightning-fast responses. | [Search Now](https://roniengine.netlify.app/) |
+| 💬 **RONI ENGINE** | A multi-functional search engine . Includes lightning-fast responses. | [Search Now](https://ronisearch.lovable.app/) |
 
 ---
 
@@ -38,4 +38,4 @@ From entertainment to productivity, this repository showcases my projects built 
 
 | Name | Description | Link |
 |------|--------------|------|
-| 💬 **R.O.N.I** | A multi-functional AI . Includes lightning-fast responses. | [Chat Now](https://askroni.lovable.app/) |
+| 💬 **Askroni** | A multi-functional AI . Includes lightning-fast responses. | [Chat Now](https://askroni.lovable.app/) |
